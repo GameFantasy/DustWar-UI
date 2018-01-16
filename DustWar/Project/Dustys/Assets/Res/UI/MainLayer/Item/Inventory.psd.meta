@@ -1,0 +1,113 @@
+fileFormatVersion: 2
+guid: fca4b4ce438238d42997d1e08ffd5263
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: InventoryBG
+    21300002: InventoryRoundFrame
+    21300004: InventoryItemGrid
+    21300006: InventoryTitle
+    21300008: InventoryCloseIcon
+    21300010: InventoryCustomIcon
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: InventoryBG
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 64
+        width: 452
+        height: 519
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: InventoryRoundFrame
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 53
+        width: 66
+        height: 65
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: InventoryItemGrid
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 3
+        width: 37
+        height: 37
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: InventoryTitle
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 11
+        width: 366
+        height: 21
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: InventoryCloseIcon
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 12
+        width: 19
+        height: 18
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: InventoryCustomIcon
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 10
+        width: 45
+        height: 23
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

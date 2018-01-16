@@ -1,0 +1,533 @@
+fileFormatVersion: 2
+guid: 5e70694a498da154eb40b88d76855059
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: GuildFightArena_arrow
+    21300002: GuildFightArena_background
+    21300004: GuildFightArena_command
+    21300006: GuildFightArena_CommondAtk
+    21300008: GuildFightArena_CommondDef
+    21300010: GuildFightArena_EnemyPointFlag
+    21300012: GuildFightArena_HeadFrameBlue
+    21300014: GuildFightArena_HeadFrameBlue_2
+    21300016: GuildFightArena_HeadFrameRed
+    21300018: GuildFightArena_light
+    21300020: GuildFightArena_NameFrameBlue
+    21300022: GuildFightArena_NameFrameRed
+    21300024: GuildFightArena_path
+    21300026: GuildFightArena_PlayerIconBlue
+    21300028: GuildFightArena_PlayerIconRed
+    21300030: GuildFightArena_PointBloodBg
+    21300032: GuildFightArena_quan
+    21300034: GuildFightArena_Rank2
+    21300036: GuildFightArena_Rule
+    21300038: GuildFightArena_ScoreBg
+    21300040: GuildFightArena_StateProgress
+    21300042: GuildFightArena_Timer
+    21300044: GuildFightArena_VsIcon
+    21300046: button_1
+    21300048: button_2
+    21300050: button_list
+    21300052: flag_blue
+    21300054: flag_red
+    21300056: GuildFightArena_list
+    21300058: GuildFightArena_list_01
+    21300060: GuildFightArena_list_02
+    21300062: HP_1
+    21300064: HP_blue
+    21300066: HP_red
+    21300068: tips_blue
+    21300070: tips_red
+    21300072: GuildFightArena_list_01a
+    21300074: GuildFightArena_1
+    21300076: GuildFightArena_2
+    21300078: GuildFightArena_list_1
+    21300080: 1
+    21300082: mianzhan_2
+    21300084: mianzhan_1
+    21300086: mianzhan_3
+    21300088: GuildFightArena_general
+    21300090: button_3
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: 1
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 219
+        width: 128
+        height: 56
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: button_1
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 1
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: button_2
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 15
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: button_3
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 73
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: button_list
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 19
+        width: 78
+        height: 160
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: flag_blue
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 11
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: flag_red
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 7
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GuildFightArena_1
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 109
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GuildFightArena_2
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 7
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GuildFightArena_arrow
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 277
+        width: 102
+        height: 128
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GuildFightArena_command
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 45
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GuildFightArena_CommondAtk
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 175
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GuildFightArena_CommondDef
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 175
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GuildFightArena_EnemyPointFlag
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 103
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GuildFightArena_general
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 267
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GuildFightArena_HeadFrameBlue
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 277
+        width: 112
+        height: 128
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GuildFightArena_HeadFrameBlue_2
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 45
+        width: 62
+        height: 128
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GuildFightArena_HeadFrameRed
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 277
+        width: 112
+        height: 128
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GuildFightArena_light
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 181
+        width: 128
+        height: 84
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GuildFightArena_list
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 397
+        width: 250
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 5, y: 3, z: 5, w: 4}
+    - name: GuildFightArena_list_01
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 164
+        width: 12
+        height: 21
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 4, y: 7, z: 4, w: 11}
+    - name: GuildFightArena_list_1
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 407
+        width: 900
+        height: 12
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GuildFightArena_list_01a
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 1
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 3, y: 5, z: 3, w: 5}
+    - name: GuildFightArena_list_02
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 1
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 4, y: 4, z: 4, w: 4}
+    - name: GuildFightArena_NameFrameBlue
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 175
+        width: 300
+        height: 106
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GuildFightArena_NameFrameRed
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 283
+        width: 300
+        height: 122
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GuildFightArena_path
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 185
+        width: 24
+        height: 18
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GuildFightArena_PlayerIconBlue
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 41
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GuildFightArena_PlayerIconRed
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 39
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GuildFightArena_PointBloodBg
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 187
+        width: 12
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GuildFightArena_quan
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 205
+        width: 128
+        height: 60
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GuildFightArena_Rank2
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 45
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GuildFightArena_Rule
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 267
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GuildFightArena_StateProgress
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 43
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GuildFightArena_Timer
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 11
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GuildFightArena_VsIcon
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 117
+        width: 78
+        height: 100
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: HP_1
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 205
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 4, y: 5, z: 4, w: 6}
+    - name: HP_blue
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 397
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 4, y: 0, z: 4, w: 0}
+    - name: HP_red
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 31
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 3, y: 0, z: 3, w: 0}
+    - name: mianzhan_1
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 1
+        width: 52
+        height: 72
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mianzhan_2
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 5
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mianzhan_3
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 75
+        width: 90
+        height: 104
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tips_blue
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 23
+        width: 104
+        height: 20
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tips_red
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1
+        width: 104
+        height: 20
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

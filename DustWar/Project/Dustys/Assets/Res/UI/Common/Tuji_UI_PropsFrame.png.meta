@@ -1,0 +1,561 @@
+fileFormatVersion: 2
+guid: d1c444ebfe7310141a9c8d2829fd9b91
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: piece01
+    21300002: piece02
+    21300004: piece03
+    21300006: piece04
+    21300008: piece05
+    21300010: prop01
+    21300012: prop02
+    21300014: prop02_1
+    21300016: prop03
+    21300018: prop03_1
+    21300020: prop04
+    21300022: prop04_1
+    21300024: prop05
+    21300026: wen
+    21300028: prop02_2
+    21300030: prop03_2
+    21300032: prop04_2
+    21300034: prop05_1
+    21300036: prop05_2
+    21300038: general9
+    21300040: general10
+    21300042: general11
+    21300044: general12
+    21300046: general13
+    21300048: general1
+    21300050: general2
+    21300052: general3
+    21300054: general4
+    21300056: general5
+    21300058: choose
+    21300060: floor_1
+    21300062: floor_2
+    21300064: floor_3
+    21300066: floor_4
+    21300068: floor_5
+    21300070: prop02_a
+    21300072: prop03_a
+    21300074: prop04_a
+    21300076: prop05_a
+    21300078: piece
+    21300080: equip02_1
+    21300082: equip02_2
+    21300084: equip03_1
+    21300086: equip03_2
+    21300088: equip03_3
+    21300090: equip04_1
+    21300092: equip04_2
+    21300094: equip04_3
+    21300096: equip04_4
+    21300098: equip05_1
+    21300100: equip05_2
+    21300102: equip05_3
+    21300104: equip05_4
+    21300106: equip05_5
+    21300108: equip01
+    21300110: equip02
+    21300112: equip03
+    21300114: equip04
+    21300116: equip05
+    21300118: debris
+    21300120: general2_1
+    21300122: general3_1
+    21300124: general4_1
+    21300126: general5_1
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: choose
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 351
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: debris
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 434
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: equip01
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 125
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: equip02
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 27
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: equip02_1
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 151
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: equip02_2
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 53
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: equip03
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 281
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: equip03_1
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 281
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: equip03_2
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 281
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: equip03_3
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 281
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: equip04
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 281
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: equip04_1
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 183
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: equip04_2
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 85
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: equip04_3
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 183
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: equip04_4
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 85
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: equip05
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 183
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: equip05_1
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 85
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: equip05_2
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 183
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: equip05_3
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 85
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: equip05_4
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 183
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: equip05_5
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 85
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: floor_1
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 249
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: floor_2
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 379
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: floor_3
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 379
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: floor_4
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 379
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: floor_5
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 379
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: general1
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 223
+        width: 12
+        height: 256
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 5, y: 5, z: 5, w: 4}
+    - name: general2
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 223
+        width: 12
+        height: 256
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 5, y: 5, z: 5, w: 4}
+    - name: general2_1
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 44
+        width: 35
+        height: 39
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: general3
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 223
+        width: 12
+        height: 256
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 5, y: 5, z: 5, w: 4}
+    - name: general3_1
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 393
+        width: 35
+        height: 39
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: general4
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 223
+        width: 12
+        height: 256
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 5, y: 5, z: 5, w: 4}
+    - name: general4_1
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 3
+        width: 35
+        height: 39
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: general5
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 223
+        width: 12
+        height: 256
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 5, y: 5, z: 5, w: 4}
+    - name: general5_1
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 44
+        width: 35
+        height: 39
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: piece02
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 297
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: piece03
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 215
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: piece04
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 133
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: piece05
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 51
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: prop01
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 3
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: prop02
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 3
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: prop03
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 3
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: prop04
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 3
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: prop05
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 3
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: wen
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 379
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

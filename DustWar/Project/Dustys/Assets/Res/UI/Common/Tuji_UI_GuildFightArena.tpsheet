@@ -1,0 +1,57 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# http://www.codeandweb.com/texturepacker/unity
+#
+# $TexturePacker:SmartUpdate:0494bf6a330528673a2e52463eb9f513:ae7007ec2aefe9571e097b8133027b98:34e336e1060e8c0d2d9a0f9aae564784$
+#
+:format=40000
+:texture=Tuji_UI_GuildFightArena.png
+:size=904x420
+:pivotpoints=enabled
+
+1;563;219;128;56;0.5;0.5
+button_1;497;1;100;100;0.5;0.5
+button_2;599;15;100;100;0.5;0.5
+button_3;701;73;100;100;0.5;0.5
+button_list;325;19;78;160;0.5;0.5
+flag_blue;147;11;30;32;0.5;0.5
+flag_red;459;7;30;32;0.5;0.5
+GuildFightArena_1;803;109;64;64;0.5;0.5
+GuildFightArena_2;701;7;64;64;0.5;0.5
+GuildFightArena_arrow;791;277;102;128;0.5;0.5
+GuildFightArena_command;131;45;128;128;0.5;0.5
+GuildFightArena_CommondAtk;693;175;100;100;0.5;0.5
+GuildFightArena_CommondDef;795;175;100;100;0.5;0.5
+GuildFightArena_EnemyPointFlag;497;103;100;100;0.5;0.5
+GuildFightArena_general;433;267;128;128;0.5;0.5
+GuildFightArena_HeadFrameBlue;563;277;112;128;0.5;0.5
+GuildFightArena_HeadFrameBlue_2;261;45;62;128;0.5;0.5
+GuildFightArena_HeadFrameRed;677;277;112;128;0.5;0.5
+GuildFightArena_light;303;181;128;84;0.5;0.5
+GuildFightArena_list;303;397;250;8;0.5;0.5
+GuildFightArena_list_01;679;164;12;21;0.5;0.5
+GuildFightArena_list_1;1;407;900;12;0.5;0.5
+GuildFightArena_list_01a;147;1;10;8;0.5;0.5
+GuildFightArena_list_02;159;1;8;8;0.5;0.5
+GuildFightArena_NameFrameBlue;1;175;300;106;0.5;0.5
+GuildFightArena_NameFrameRed;1;283;300;122;0.5;0.5
+GuildFightArena_path;433;185;24;18;0.5;0.5
+GuildFightArena_PlayerIconBlue;459;41;32;32;0.5;0.5
+GuildFightArena_PlayerIconRed;767;39;32;32;0.5;0.5
+GuildFightArena_PointBloodBg;679;187;12;30;0.5;0.5
+GuildFightArena_quan;433;205;128;60;0.5;0.5
+GuildFightArena_Rank2;1;45;128;128;0.5;0.5
+GuildFightArena_Rule;303;267;128;128;0.5;0.5
+GuildFightArena_StateProgress;803;43;64;64;0.5;0.5
+GuildFightArena_Timer;179;11;28;32;0.5;0.5
+GuildFightArena_VsIcon;599;117;78;100;0.5;0.5
+HP_1;563;205;10;12;0.5;0.5
+HP_blue;555;397;4;8;0.5;0.5
+HP_red;491;31;4;8;0.5;0.5
+mianzhan_1;405;1;52;72;0.5;0.5
+mianzhan_2;107;5;38;38;0.5;0.5
+mianzhan_3;405;75;90;104;0.5;0.5
+tips_blue;1;23;104;20;0.5;0.5
+tips_red;1;1;104;20;0.5;0.5

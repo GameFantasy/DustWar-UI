@@ -1,0 +1,1425 @@
+fileFormatVersion: 2
+guid: a1692f0133753cc43aaf5ad9e3c2ba62
+timeCreated: 1516001049
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: ~gameasset[1]_0
+    21300002: ~gameasset[1]_1
+    21300004: ~gameasset[1]_2
+    21300006: ~gameasset[1]_3
+    21300008: ~gameasset[1]_4
+    21300010: ~gameasset[1]_5
+    21300012: ~gameasset[1]_6
+    21300014: ~gameasset[1]_7
+    21300016: ~gameasset[1]_8
+    21300018: ~gameasset[1]_9
+    21300020: ~gameasset[1]_10
+    21300022: ~gameasset[1]_11
+    21300024: ~gameasset[1]_12
+    21300026: ~gameasset[1]_13
+    21300028: ~gameasset[1]_14
+    21300030: ~gameasset[1]_15
+    21300032: ~gameasset[1]_16
+    21300034: ~gameasset[1]_17
+    21300036: ~gameasset[1]_18
+    21300038: ~gameasset[1]_19
+    21300040: ~gameasset[1]_20
+    21300042: ~gameasset[1]_21
+    21300044: ~gameasset[1]_22
+    21300046: ~gameasset[1]_23
+    21300048: ~gameasset[1]_24
+    21300050: ~gameasset[1]_25
+    21300052: ~gameasset[1]_26
+    21300054: ~gameasset[1]_27
+    21300056: ~gameasset[1]_28
+    21300058: ~gameasset[1]_29
+    21300060: ~gameasset[1]_30
+    21300062: ~gameasset[1]_31
+    21300064: ~gameasset[1]_32
+    21300066: ~gameasset[1]_33
+    21300068: ~gameasset[1]_34
+    21300070: ~gameasset[1]_35
+    21300072: ~gameasset[1]_36
+    21300074: ~gameasset[1]_37
+    21300076: ~gameasset[1]_38
+    21300078: ~gameasset[1]_39
+    21300080: ~gameasset[1]_40
+    21300082: ~gameasset[1]_41
+    21300084: ~gameasset[1]_42
+    21300086: ~gameasset[1]_43
+    21300088: ~gameasset[1]_44
+    21300090: ~gameasset[1]_45
+    21300092: ~gameasset[1]_46
+    21300094: ~gameasset[1]_47
+    21300096: ~gameasset[1]_48
+    21300098: ~gameasset[1]_49
+    21300100: ~gameasset[1]_50
+    21300102: ~gameasset[1]_51
+    21300104: ~gameasset[1]_52
+    21300106: ~gameasset[1]_53
+    21300108: ~gameasset[1]_54
+    21300110: ~gameasset[1]_55
+    21300112: ~gameasset[1]_56
+    21300114: ~gameasset[1]_57
+    21300116: ~gameasset[1]_58
+    21300118: ~gameasset[1]_59
+    21300120: ~gameasset[1]_60
+    21300122: ~gameasset[1]_61
+    21300124: ~gameasset[1]_62
+    21300126: ~gameasset[1]_63
+    21300128: ~gameasset[1]_64
+    21300130: ~gameasset[1]_65
+    21300132: ~gameasset[1]_66
+    21300134: ~gameasset[1]_67
+    21300136: ~gameasset[1]_68
+    21300138: ~gameasset[1]_69
+    21300140: ~gameasset[1]_70
+    21300142: ~gameasset[1]_71
+    21300144: ~gameasset[1]_72
+    21300146: ~gameasset[1]_73
+    21300148: ~gameasset[1]_74
+    21300150: ~gameasset[1]_75
+    21300152: ~gameasset[1]_76
+    21300154: ~gameasset[1]_77
+    21300156: ~gameasset[1]_78
+    21300158: ~gameasset[1]_79
+    21300160: ~gameasset[1]_80
+    21300162: ~gameasset[1]_81
+    21300164: ~gameasset[1]_82
+    21300166: ~gameasset[1]_83
+    21300168: ~gameasset[1]_84
+    21300170: ~gameasset[1]_85
+    21300172: ~gameasset[1]_86
+    21300174: ~gameasset[1]_87
+    21300176: ~gameasset[1]_88
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: -1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ~gameasset[1]_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 585
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ~gameasset[1]_1
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 481
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ~gameasset[1]_2
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 388
+        width: 185
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ~gameasset[1]_3
+      rect:
+        serializedVersion: 2
+        x: 763
+        y: 531
+        width: 58
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ~gameasset[1]_4
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 617
+        width: 62
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ~gameasset[1]_5
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 617
+        width: 62
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ~gameasset[1]_6
+      rect:
+        serializedVersion: 2
+        x: 955
+        y: 604
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ~gameasset[1]_7
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 551
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ~gameasset[1]_8
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 556
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ~gameasset[1]_9
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 526
+        width: 49
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ~gameasset[1]_10
+      rect:
+        serializedVersion: 2
+        x: 953
+        y: 555
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ~gameasset[1]_11
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 525
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ~gameasset[1]_12
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 522
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ~gameasset[1]_13
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 485
+        width: 39
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ~gameasset[1]_14
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 482
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ~gameasset[1]_15
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 491
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ~gameasset[1]_16
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 481
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ~gameasset[1]_17
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 484
+        width: 39
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ~gameasset[1]_18
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 484
+        width: 39
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ~gameasset[1]_19
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 484
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ~gameasset[1]_20
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 461
+        width: 47
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ~gameasset[1]_21
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 444
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ~gameasset[1]_22
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 423
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ~gameasset[1]_23
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 388
+        width: 185
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ~gameasset[1]_24
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 358
+        width: 40
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ~gameasset[1]_25
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 422
+        width: 30
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ~gameasset[1]_26
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 422
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ~gameasset[1]_27
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 427
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ~gameasset[1]_28
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 426
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ~gameasset[1]_29
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 427
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ~gameasset[1]_30
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 424
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ~gameasset[1]_31
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 390
+        width: 58
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ~gameasset[1]_32
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 390
+        width: 58
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ~gameasset[1]_33
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 392
+        width: 58
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ~gameasset[1]_34
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 392
+        width: 58
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ~gameasset[1]_35
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 395
+        width: 58
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ~gameasset[1]_36
+      rect:
+        serializedVersion: 2
+        x: 881
+        y: 397
+        width: 58
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ~gameasset[1]_37
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 388
+        width: 127
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ~gameasset[1]_38
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 389
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ~gameasset[1]_39
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 387
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ~gameasset[1]_40
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 379
+        width: 33
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ~gameasset[1]_41
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 379
+        width: 33
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ~gameasset[1]_42
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 356
+        width: 101
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ~gameasset[1]_43
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 356
+        width: 48
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ~gameasset[1]_44
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 358
+        width: 40
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ~gameasset[1]_45
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 358
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ~gameasset[1]_46
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 361
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ~gameasset[1]_47
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 327
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ~gameasset[1]_48
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 322
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ~gameasset[1]_49
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 333
+        width: 51
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ~gameasset[1]_50
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 332
+        width: 51
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ~gameasset[1]_51
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 360
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ~gameasset[1]_52
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 360
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ~gameasset[1]_53
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 91
+        width: 160
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ~gameasset[1]_54
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 327
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ~gameasset[1]_55
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 303
+        width: 36
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ~gameasset[1]_56
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 266
+        width: 61
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ~gameasset[1]_57
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 64
+        width: 30
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ~gameasset[1]_58
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 98
+        width: 37
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ~gameasset[1]_59
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 233
+        width: 124
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ~gameasset[1]_60
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 91
+        width: 160
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ~gameasset[1]_61
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 188
+        width: 53
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ~gameasset[1]_62
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 184
+        width: 71
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ~gameasset[1]_63
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 185
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ~gameasset[1]_64
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 194
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ~gameasset[1]_65
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 162
+        width: 178
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ~gameasset[1]_66
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 98
+        width: 37
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ~gameasset[1]_67
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 90
+        width: 35
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ~gameasset[1]_68
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 123
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ~gameasset[1]_69
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 103
+        width: 138
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ~gameasset[1]_70
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 116
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ~gameasset[1]_71
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 117
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ~gameasset[1]_72
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 116
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ~gameasset[1]_73
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 102
+        width: 51
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ~gameasset[1]_74
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 64
+        width: 30
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ~gameasset[1]_75
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 90
+        width: 36
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ~gameasset[1]_76
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 91
+        width: 36
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ~gameasset[1]_77
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 90
+        width: 35
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ~gameasset[1]_78
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 23
+        width: 58
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ~gameasset[1]_79
+      rect:
+        serializedVersion: 2
+        x: 879
+        y: 22
+        width: 48
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ~gameasset[1]_80
+      rect:
+        serializedVersion: 2
+        x: 941
+        y: 24
+        width: 55
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ~gameasset[1]_81
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 61
+        width: 43
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ~gameasset[1]_82
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 12
+        width: 63
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ~gameasset[1]_83
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 10
+        width: 38
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ~gameasset[1]_84
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 18
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ~gameasset[1]_85
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 16
+        width: 51
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ~gameasset[1]_86
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 18
+        width: 63
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ~gameasset[1]_87
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 18
+        width: 59
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ~gameasset[1]_88
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 22
+        width: 55
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
